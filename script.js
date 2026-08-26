@@ -69,7 +69,6 @@ async function getData() {
         <div class="post-card">
           <h2>${data.title}</h2>
           <p>${data.description}</p>
-          <p>${data.createdAt}</p>
         </div>
       `;
     });
